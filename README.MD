@@ -40,15 +40,15 @@ This project follows the Page Object Model (POM) to ensure a clean separation be
 
 ## Running Tests Locally
 
-* 1. Clone the repository.
-* 2. Run npm install to install dependencies.
-* 3. Set your BrowserStack credentials as environment variables:
-
+1. Clone the repository.
+2. Run npm install to install dependencies.
+3. Set your BrowserStack credentials as environment variables:
 
 ```text
 export BROWSERSTACK_USER='your_username'
 export BROWSERSTACK_KEY='your_access_key'
 ```
 
-* 4. Execute the tests using:
-```npx wdio run wdio.conf.js```
+4. Execute the tests using:
+```text
+npx wdio run wdio.conf.js```
