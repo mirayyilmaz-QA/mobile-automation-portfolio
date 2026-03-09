@@ -54,3 +54,7 @@ export BROWSERSTACK_KEY='your_access_key'
 ```
 
 * Execute the tests using: ```npx wdio run wdio.conf.js```
+
+
+### Note: 
+This project is configured to run on a Google Pixel 7 (Android 13) via BrowserStack's Real Device Cloud to ensure high performance and bypass local hardware limitations.
