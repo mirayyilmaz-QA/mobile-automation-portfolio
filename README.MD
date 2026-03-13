@@ -1,5 +1,7 @@
 # Project Overview
 
+**[View Live Allure Test Report](https://mirayyilmaz-qa.github.io/mobile-automation-portfolio/)**
+
 This repository showcases a professional-grade mobile automation framework built with **WebdriverIO** and **Appium**. It targets the WebdriverIO Native Demo App to demonstrate a robust approach to testing modern mobile applications on real devices via BrowserStack.
 
 
