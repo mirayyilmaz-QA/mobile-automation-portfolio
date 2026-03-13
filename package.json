@@ -2,6 +2,7 @@
   "name": "wdio-mobile-portfolio",
   "type": "module",
   "devDependencies": {
+    "@wdio/allure-reporter": "^9.25.0",
     "@wdio/appium-service": "^9.24.0",
     "@wdio/browserstack-service": "^9.24.0",
     "@wdio/cli": "^9.24.0",

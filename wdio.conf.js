@@ -43,7 +43,14 @@ export const config = {
     maxInstances: 1,
 
     framework: 'mocha',
-    reporters: ['spec'],
+    reporters: [
+        'spec',
+        ['allure', {
+            outputDir: 'allure-results',
+            disableWebdriverStepsReporting: true,
+            disableWebdriverScreenshotsReporting: false,
+        }]
+    ],
 
     // Increased timeout for slower cloud/network connections
     connectionRetryTimeout: 180000,
