@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","13013","should show error for a short password format","WebdriverIO Mobile Login Portfolio Project","Fri Mar 13 17:33:18 UTC 2026","passed","Fri Mar 13 17:33:31 UTC 2026","","","",""
+"","7585","should toggle between Login and Sign Up tabs","WebdriverIO Mobile Login Portfolio Project","Fri Mar 13 17:33:31 UTC 2026","passed","Fri Mar 13 17:33:39 UTC 2026","","","",""
+"","30509","should swipe horizontally through the carousel cards","WebdriverIO Mobile Swipe Portfolio Project","Fri Mar 13 17:33:59 UTC 2026","passed","Fri Mar 13 17:34:30 UTC 2026","","","",""
+"","9289","should drag a puzzle piece to the correct drop zone","WebdriverIO Mobile Drag and Drop Portfolio Project","Fri Mar 13 17:32:23 UTC 2026","passed","Fri Mar 13 17:32:33 UTC 2026","","","",""
+"","12918","should login successfully with valid credentials","WebdriverIO Mobile Login Portfolio Project","Fri Mar 13 17:32:53 UTC 2026","passed","Fri Mar 13 17:33:06 UTC 2026","","","",""
+"","12087","should show error for a invalid email","WebdriverIO Mobile Login Portfolio Project","Fri Mar 13 17:33:06 UTC 2026","passed","Fri Mar 13 17:33:18 UTC 2026","","","",""
